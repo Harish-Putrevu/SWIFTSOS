@@ -1,0 +1,9 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(Aghita.ttf);
+ 
+ }
+ 
+ * {
+    font-family: myFirstFont;
+ }
